@@ -1,0 +1,21 @@
+{
+  "name": "prj_jason_031122_fe",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.1.3",
+    "pinia": "^2.0.23",
+    "vee-validate": "^4.7.2",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.5",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.2",
+    "vite": "^3.1.8"
+  }
+}
